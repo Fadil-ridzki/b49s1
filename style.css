@@ -1,0 +1,65 @@
+.desc-card {
+    width: 550px;
+    height: 900px;
+    margin: 50px auto;
+    padding: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+
+}
+
+.desc-card h1 {
+    text-align: center;
+}
+
+.desc-card button {
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.desc-card a {
+    text-decoration: none;
+    color: black;
+    margin-bottom: 20px;
+
+}
+
+.desc-card i {
+    font-size: 20px;
+}
+
+.desc-card .icon-card {
+    margin: 15px 185px 30px;
+
+}
+
+.desc-card .icon-card i {
+    font-size: 40px;
+    cursor: pointer;
+    margin-right: 5px;
+    
+    
+}
+
+.desc-card .card {
+    border: 2px solid black ;
+    width: 450px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px;
+    margin: 70px auto;
+}
+
+.desc-card .card img {
+    border-radius: 10px;
+    width: 100%;
+    border: 2px solid black;
+}
